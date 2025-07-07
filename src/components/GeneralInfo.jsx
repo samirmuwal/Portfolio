@@ -4,7 +4,7 @@ function GeneralInfo() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch("/json/personalinfo.json")
+    fetch("/public/json/personalinfo.json")
       .then((res) => res.json())
       .then((info) => setData(info))
       .catch((err) => console.error("Error loading JSON:", err));

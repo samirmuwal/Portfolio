@@ -4,7 +4,7 @@ function Blogs() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch("/json/blog.json")
+    fetch("/public/json/blog.json")
       .then((res) => res.json())
       .then((info) => setData(info))
       .catch((err) => console.error("Error loading JSON:", err));

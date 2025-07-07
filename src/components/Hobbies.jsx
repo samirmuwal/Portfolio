@@ -17,7 +17,7 @@ function Hobbies() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch("/json/hobbies.json")
+    fetch("/public/json/hobbies.json")
       .then((res) => res.json())
       .then((info) => setData(info))
       .catch((err) => console.error("Error loading JSON:", err));
