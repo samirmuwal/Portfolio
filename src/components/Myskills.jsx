@@ -4,7 +4,7 @@ function Myskills() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch("/public/json/icons.json")
+    fetch("/json/icons.json")
       .then((res) => res.json())
       .then((data) => setData(data))
       .catch((err) => console.error("Error loading JSON:", err));

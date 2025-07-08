@@ -1,0 +1,14 @@
+[
+    {
+        "title":"Cooking",
+        "image":"/assets/icons/cooking.jpg",
+        "description":"This Blog about Happy Cooking",
+        "navlink":"https://medium.com/@samirkjan2627/the-joy-of-cooking-more-than-just-a-hobby-8fa73b44d230"
+    },
+       {
+        "title":"Node js Experience",
+        "image":"/assets/icons/nodejs.svg",
+        "description":"How Nodejs helps in backend development and its event-driven architecture.",
+        "navlink":"https://medium.com/@samirkjan2627/my-journey-with-node-js-building-the-backend-with-confidence-b8303343b870"
+    }
+]

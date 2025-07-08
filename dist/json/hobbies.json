@@ -1,0 +1,20 @@
+[
+    {
+        "icon": "TbCricket",
+        "title":"Traveling",
+        "content": "`I am passionate about traveling and exploring new places. Whether it's uncovering hidden gems in my own backyard or embarking on exciting adventures, I thrive on the thrill of discovering new cultures, cuisines, and landscapes. Traveling not only broadens my horizons but also provides me with valuable life experiences and a deep appreciation for the diversity of our world!!`"
+    },
+    {
+         "icon": "TbBook2",
+        "title":"Reading",
+     "content": "Cooking is my creative outlet and a way to unwind.\nI enjoy experimenting with new recipes and flavors.\nIt brings me joy to prepare meals for family and friends.\nThrough cooking, I’ve learned patience and attention to detail.\nIt’s a hobby that feeds both the body and the soul."
+
+
+    },
+    {
+        "icon": "GiCookingPot",
+        "title":"Cooking",
+        "content":"Cooking is more than just preparing meals — it's my creative escape.I enjoy experimenting with spices and ingredients to invent new flavors.The sizzle of a pan and the aroma of fresh herbs always excites me.I find peace in chopping, stirring, and plating with care.Whether it’s Indian curry or Italian pasta, I love trying global cuisines.Baking brings me joy."
+    }
+   
+]

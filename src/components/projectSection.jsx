@@ -4,7 +4,7 @@ function ProjectSection() {
   const [projects, setProjects] = useState([]);
 
   useEffect(() => {
-    fetch('/public/json/projects.json')
+    fetch('/json/projects.json')
       .then((res) => res.json())
       .then((data) => setProjects(data))
       .catch((err) => console.error('Error loading JSON:', err));

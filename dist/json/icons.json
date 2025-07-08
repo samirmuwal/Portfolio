@@ -1,0 +1,49 @@
+[
+  {
+    "name": "HTML",
+    "icon": "/assets/icons/html.svg"
+  },
+  {
+    "name": "CSS",
+    "icon": "/assets/icons/css3.svg"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "/assets/icons/javascript.svg"
+  },
+  {
+    "name": "React",
+    "icon": "/assets/icons/react.svg"
+  },
+  {
+    "name": "Tailwind CSS",
+    "icon": "/assets/icons/tailwind.jpg"
+  },
+  {
+    "name": "Node.js",
+    "icon": "/assets/icons/nodejs.svg"
+  },
+  {
+    "name": "Git",
+    "icon": "/assets/icons/git.svg"
+  },
+   {
+    "name": "Bootstrap",
+    "icon": "/assets/icons/bootstrap.png"
+  }, {
+    "name": "C++",
+    "icon": "/assets/icons/c++.png"
+  },
+   {
+    "name": "JavaScript",
+    "icon": "/assets/icons/javascript.svg"
+  },
+   {
+    "name": "MongoDB",
+    "icon": "/assets/icons/mongodb.svg"
+  },
+   {
+    "name": "oops",
+    "icon": "/assets/icons/oops.png"
+  }
+]
