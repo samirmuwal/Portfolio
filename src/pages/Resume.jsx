@@ -1,6 +1,7 @@
 import React from "react";
 import Resume from "../components/resume";
-Resume
+import Contectlogo from "../components/Contectlogo";
+
 function ResumeViewer() {
   return (
      <div className="w-full md:w-[80%] min-h-screen p-4 md:p-6 bg-[#1F1D36] text-white float-end">
@@ -9,6 +10,8 @@ function ResumeViewer() {
       </h1>
 
   <Resume/>
+  <Contectlogo></Contectlogo>
+  
     </div>
 
   );
