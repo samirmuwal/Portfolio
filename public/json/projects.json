@@ -2,13 +2,13 @@
   {
     "title": "Event Management System",
     "tech": ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS"],
-    "image": "/event.png",
+    "image": "/public/event.png",
     "description": "A full-stack Event Management System built with user authentication and role-based access.Users can register, log in, and explore upcoming events.Admins have access to a dedicated panel to manage all events.Includes full CRUD (Create, Read, Update, Delete) functionality for event listings.Built with a modern tech stack for a responsive and intuitive user experience.."
   },
   {
   "title": "Bell Project",
   "tech": ["HTML", "CSS", "JavaScript", "React.js", "Node.js"],
-  "image": "/bell.png",
+  "image": "/public/bell.png",
   "description": "The Bell Project is a web-based application designed to automate and manage institutional bell scheduling. It allows admins to set custom bell timings for different periods (e.g., lectures, breaks, exams) and plays a bell sound at the configured times. Built using React for the frontend and Node.js for the backend, this project showcases real-time clock management, timer logic, and an easy-to-use admin interface."
 }
 
